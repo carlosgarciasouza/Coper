@@ -1,13 +1,11 @@
 # GIT - Sistema de controle de versão distribuido
 
 
-* Registra as mudanças que ocorrem  no codigo fonte de um projeto  
-* Permite que arquivos sejam alterados de forma Simultanêa por INUMEROS users
-* Essensical para equipes que desenvolvem em um mesmo projeto Simultanêamente
-* Utiliza o Método de BRANCH
-  * Permite criar diferentes ramificações do projeto utilizando o mesmo codigo fonte
-        como base em paralelo para depois mesclar as mudanças na ramificação (branch) principal
-* Permite clonar o repositório que está hospedado no servidor 
+Morbi sed egestas arcu. Vivamus tincidunt aliquet euismod. Nunc vel neque et eros tempus tristique.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+ Praesent vulputate augue libero, in venenatis tellus dictum vel. Praesent ultricies, sapien vel 
+ auctor sodales, tellus sem venenatis diam, eget tristique libero ipsum a massa. Integer ultricies 
+ leo non nulla egestas, quis luctus urna scelerisque. Quisque convallis accumsan fringilla.
  
 ## GITHUB e Bitbucket:
 * Plataforma de Hospedagem de arquivos com controle versionamento
