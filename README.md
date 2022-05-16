@@ -1,5 +1,5 @@
 # GIT - Sistema de controle de versão distribuido:
-  ## GIT
+  ## GIT:
 * Registra as mudanças que ocorrem  no codigo fonte de um projeto  
 * Permite que arquivos sejam alterados de forma Simultanêa por INUMEROS users
 * Essensical para equipes que desenvolvem em um mesmo projeto Simultanêamente
