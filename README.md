@@ -13,6 +13,7 @@
 * Plataforma de Hospedagem de arquivos com controle versionamento
 * Usado como uma "Rede social" profissional
 * Usado de forma conjunta com o GIT
+* Gratuito/Pago
 
 
 ## Versões pagas e Gratuitas
