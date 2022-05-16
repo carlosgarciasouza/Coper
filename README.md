@@ -1,14 +1,7 @@
 # GIT - Sistema de controle de versão distribuido
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id luctus purus. 
-    Integer efficitur non mi vitae placerat. In sed augue ac diam pulvinar venenatis. Aenean ac ipsum 
-    eu risus convallis pretium. Pellentesque suscipit est nisi, ac hendrerit massa varius sed. 
-    Vivamus pulvinar nunc in massa euismod pellentesque. Mauris vulputate eros eu dolor volutpat, 
-    sit amet tincidunt nibh vestibulum. Morbi porttitor lectus tincidunt enim consectetur posuere. 
-    Integer lorem tortor, lacinia non nisi et, tincidunt porttitor ligula. Cras nec enim eget quam 
-    pulvinar ornare ac scelerisque felis. Sed luctus, eros in laoreet hendrerit, lectus  elit euismod 
-    erat, at molestie ipsum neque id erat. Nulla luctus sit amet massa a condimentum.
+cshdcmbiuvbvibib
  
  
 ## GITHUB e Bitbucket:
