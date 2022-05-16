@@ -7,9 +7,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id luctus purus.
     Vivamus pulvinar nunc in massa euismod pellentesque. Mauris vulputate eros eu dolor volutpat, 
     sit amet tincidunt nibh vestibulum. Morbi porttitor lectus tincidunt enim consectetur posuere. 
     Integer lorem tortor, lacinia non nisi et, tincidunt porttitor ligula. Cras nec enim eget quam 
-    pulvinar ornare ac scelerisque felis. Sed luctus, eros in laoreet hendrerit, lectus elit euismod 
+    pulvinar ornare ac scelerisque felis. Sed luctus, eros in laoreet hendrerit, lectus  elit euismod 
     erat, at molestie ipsum neque id erat. Nulla luctus sit amet massa a condimentum.
-
+ 
  
 ## GITHUB e Bitbucket:
 * Plataforma de Hospedagem de arquivos com controle versionamento
