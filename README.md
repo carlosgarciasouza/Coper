@@ -1,18 +1,34 @@
-# GIT - Sistema de controle de versão distribuido
+# Grupo de Trabalho Inovação
+## Intranet
+
+##  O que é Inovação
+
+### Manual **//** Manifesto da Inovação
+~~~html
+1. Oque é Design Thinking
+
+2. Oque é inovação/melhorias
+
+3. Identificar problema
+
+4. Como começar
+
+5. Formas de Solucionar / preencher o formulário (prévio // generico)
+    - Kaizen
+        [...]
+    - Ferramentas
+        - RPA
+        - Melhoria SAP
+        - Projeto/Sistema
+
+6. Comite de Inovação
+    Convidar o usuário para apresentação (Caso necessário)
+    Responsável por direcionamento aprovação/rejeição
+
+7. Apresentação e fila de desenvolvimento
+~~~
 
 
-cshdcmbiuvbvibib
- 
- 
-## GITHUB e Bitbucket:
-* Plataforma de Hospedagem de arquivos com controle versionamento
-* Usado como uma "Rede social" profissional
-* Usado de forma conjunta com o GIT
-* Gratuito/Pago
 
 
-## Versões pagas e Gratuitas
-    
-    Ambos possuem versões pagas e Gratuitas que permitem inumeros repositórios publicos e privados,
-    porém ambos permitem inumeros usuarios nos repositórios publicos, e nos repositórios privados,
-    limitam à UM usuario (Bitbucket) e 3 usuario (Github) por repositorio privado.
+
